@@ -87,13 +87,4 @@ To download volatility just type in the terminal  **sudo apt-get install volatil
 |Autopsy| Autopsy is computer software that makes it simpler to deploy many of the open source programs and plugins used in The Sleuth Kit. The graphical user interface displays the results from the forensic search of the underlying volume making it easier for investigators to flag pertinent sections of data| GUI Application|
 |OSForensics| OSForensics is a digital computer forensic application which lets you extract and analyse digital data evidence efficiently and with ease. It discovers, identifies and manages ie uncovers everything hidden inside your computer systems and digital storage devices. | GUI Application | 
 
-**Both Autopsy and OSForensics can be downloaded from Internet or check in my Vault!!!!!!!** 
-
-
-
-
-
-
-
-
-
+**Both Autopsy and OSForensics can be downloaded from Internet or check in my Vault!!!!!!!**
